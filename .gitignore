@@ -3,3 +3,5 @@ Debug/
 Release/
 *.suo
 packages/
+obj/
+bin/
